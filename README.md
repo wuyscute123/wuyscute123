@@ -50,19 +50,6 @@ Automation-ready environments
 
 Lightweight and efficient design
 
-
-🔹 Bing Auto Search
-
-Automation tool designed for scalable search tasks.
-
-Multi-account support
-
-Optimized for reward farming workflows
-
-Proxy-friendly system
-
-
-
 ---
 
 ⚙️ Philosophy
