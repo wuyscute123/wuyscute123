@@ -1,97 +1,71 @@
-👋 Hello, I'm Wuys
+# 👋 Hello, I'm Wuys
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a developer focused on performance optimization, automation systems, and unconventional problem-solving. I enjoy building tools that push limits — especially in areas like macro engines, browser profile automation, and high-efficiency workflows.
+I am a developer specializing in performance optimization, automation systems, and unconventional problem-solving methodologies. I am dedicated to building tools that push technical boundaries — particularly in domains such as macro engines, browser profile automation, and high-efficiency workflow systems.
 
-Most of my projects are built with one goal in mind:
+The majority of my projects are architected with a singular objective:
 
-> Maximum performance, minimum latency.
-
-
-
+> **Maximum performance, minimum latency.**
 
 ---
 
-🧠 What I Do
+## 🧠 Technical Focus
 
-⚡ Develop high-performance macro engines (low latency, high CPS optimization)
-
-🤖 Build automation tools (browser, search systems, account workflows)
-
-🔧 Optimize systems for speed, efficiency, and scalability
-
-🧪 Experiment with advanced techniques (hooks, raw input, engine tuning)
-
-
+- ⚡ Development of high-performance macro engines (low-latency architecture, advanced CPS optimization)
+- 🤖 Engineering of automation frameworks (browser automation, search systems, account workflow management)
+- 🔧 System-level optimization for enhanced speed, operational efficiency, and scalability
+- 🧪 Research and experimentation with advanced techniques (hooks, raw input processing, engine-level tuning)
 
 ---
 
-🛠️ Featured Projects
+## 🛠️ Featured Projects
 
-🔹 Wuys Macro
+### 🔹 Wuys Macro
+A highly optimized macro engine engineered for competitive environments.
 
-A highly optimized macro engine designed for competitive environments.
+- Ultra-low latency input handling
+- Advanced CPS optimization algorithms
+- Engine-level tuning for sustained performance stability
 
-Ultra-low latency input handling
+### 🔹 Wuys Edge Manager
+A browser profile management utility inspired by Microsoft Edge.
 
-Advanced CPS optimization
-
-Engine-level tuning for performance stability
-
-
-🔹 Wuys Edge Manager
-
-A browser profile management tool inspired by Microsoft Edge.
-
-Profile cloning system
-
-Automation-ready environments
-
-Lightweight and efficient design
+- Profile cloning system
+- Automation-ready environment provisioning
+- Lightweight and resource-efficient design
 
 ---
 
-⚙️ Philosophy
+## ⚙️ Development Philosophy
 
-I don't just build tools — I refine them until they outperform expectations.
+I do not merely build tools — I refine them until they consistently exceed performance expectations.
 
-Performance over appearance
-
-Control over convenience
-
-Efficiency over complexity
-
-
+- **Performance** over appearance
+- **Control** over convenience
+- **Efficiency** over complexity
 
 ---
 
-🌍 Goals
+## 🌍 Objectives
 
-Scale automation systems to higher efficiency
-
-Improve macro engine precision and stability
-
-Build tools that outperform existing solutions in real-world scenarios
-
-
+- Scale automation systems to achieve higher operational efficiency
+- Enhance macro engine precision and runtime stability
+- Develop tools that demonstrably outperform existing solutions in real-world scenarios
 
 ---
 
-📫 Contact
+## 📫 Contact
 
-Facebook: fb.com/bbinaty.2007
-
-Roblox: eiuWuys / TDT_Noctis
-
-
+- **Facebook:** [fb.com/bbinaty.2007](https://fb.com/bbinaty.2007)
+- **Roblox:** `eiuWuys` / `TDT_Noctis`
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
-All projects are created for educational and experimental purposes. Users are responsible for how they use these tools.
+All projects are developed strictly for educational and experimental purposes. End users assume full responsibility for the manner in which these tools are utilized.
 
 ---
 
-> "Optimize everything. Trust nothing. Outperform everyone."
+> *"Optimize everything. Trust nothing. Outperform everyone."*
